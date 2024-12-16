@@ -1,0 +1,166 @@
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\appsettings.json
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\InternshipPlatform.exe
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\InternshipPlatform.deps.json
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\InternshipPlatform.runtimeconfig.json
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\InternshipPlatform.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\InternshipPlatform.pdb
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.csproj.AssemblyReference.cache
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.AssemblyInfoInputs.cache
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.AssemblyInfo.cs
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.csproj.CoreCompileInputs.cache
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets\msbuild.InternshipPlatform.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets\msbuild.build.InternshipPlatform.props
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InternshipPlatform.props
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InternshipPlatform.props
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\scopedcss\bundle\InternshipPlatform.styles.css
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.csproj.CopyComplete
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\refint\InternshipPlatform.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.pdb
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.genruntimeconfig.cache
+E:\Projects\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\ref\InternshipPlatform.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Azure.Core.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Azure.Identity.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Humanizer.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\MailKit.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\MimeKit.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\NETCore.MailKit.dll
+E:\Projects\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\appsettings.json
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\InternshipPlatform.exe
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\InternshipPlatform.deps.json
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\InternshipPlatform.runtimeconfig.json
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\InternshipPlatform.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\InternshipPlatform.pdb
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\MailKit.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\NETCore.MailKit.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.csproj.AssemblyReference.cache
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.AssemblyInfoInputs.cache
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.AssemblyInfo.cs
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.csproj.CoreCompileInputs.cache
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets\msbuild.InternshipPlatform.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets\msbuild.build.InternshipPlatform.props
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InternshipPlatform.props
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InternshipPlatform.props
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\scopedcss\bundle\InternshipPlatform.styles.css
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\refint\InternshipPlatform.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.pdb
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\InternshipPlatform.genruntimeconfig.cache
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\ref\InternshipPlatform.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Amine Hammami\source\repos\InternshipPlatform\InternshipPlatform\obj\Debug\net7.0\Internsh.CEE66D6D.Up2Date
